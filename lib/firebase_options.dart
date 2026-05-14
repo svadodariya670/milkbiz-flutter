@@ -41,44 +41,44 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDMzmY75a9aa0RoNNJ-BKBY-ztAEZVnAeM',
-    appId: '1:564439323645:web:062f00d1a4b82ecaa4ff94',
-    messagingSenderId: '564439323645',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'milkbiz-flutter',
     authDomain: 'milkbiz-flutter.firebaseapp.com',
     storageBucket: 'milkbiz-flutter.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAMSZ0dk9b4YNCFVxkQ4uW9cIrzjS5q5sY',
-    appId: '1:564439323645:android:e925552a51ae25daa4ff94',
-    messagingSenderId: '564439323645',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'milkbiz-flutter',
     storageBucket: 'milkbiz-flutter.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAZADVLYlA2dotsuyl59JoJpg9tYVYsI2E',
-    appId: '1:564439323645:ios:c6cea8e1983ff098a4ff94',
-    messagingSenderId: '564439323645',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'milkbiz-flutter',
     storageBucket: 'milkbiz-flutter.firebasestorage.app',
     iosBundleId: 'com.example.milkbiz',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAZADVLYlA2dotsuyl59JoJpg9tYVYsI2E',
-    appId: '1:564439323645:ios:c6cea8e1983ff098a4ff94',
-    messagingSenderId: '564439323645',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'milkbiz-flutter',
     storageBucket: 'milkbiz-flutter.firebasestorage.app',
     iosBundleId: 'com.example.milkbiz',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDMzmY75a9aa0RoNNJ-BKBY-ztAEZVnAeM',
-    appId: '1:564439323645:web:24ce933748976e60a4ff94',
-    messagingSenderId: '564439323645',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'milkbiz-flutter',
     authDomain: 'milkbiz-flutter.firebaseapp.com',
     storageBucket: 'milkbiz-flutter.firebasestorage.app',
