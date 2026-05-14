@@ -2,15 +2,4 @@
 *
 !.gitignore
 !lib/
-
-# Ignore nested files/folders in root
-/build/
-/android/
-/ios/
-/web/
-/windows/
-/macos/
-/linux/
-/test/
-/.dart_tool/
-/pubspec.lock
+!lib/**
